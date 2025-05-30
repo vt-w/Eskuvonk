@@ -507,20 +507,20 @@ let people = [
     {seatNo: 10, Name: "Sőregi Angéla",                 table: "groom"},
     {seatNo: 11, Name: "Zenész",                        table: "groom"},
     {seatNo: 12, Name: "Zenész",                        table: "groom"},
-    {seatNo: 13, Name: "Torákné Kovács Krisztina",      table: "groom"},
-    {seatNo: 14, Name: "Torák Vencel Lőrinc",           table: "groom"},
-    {seatNo: 15, Name: "Torák Lőrinc",                  table: "groom"},
-    {seatNo: 16, Name: "Torákné Gyurcsik Ildikó",       table: "groom"},
-    {seatNo: 17, Name: "Torák Pál",                     table: "groom"},
-    {seatNo: 18, Name: "Mezei Krisztián",               table: "groom"},
-    {seatNo: 19, Name: "Mezei Krisztiánné",             table: "groom"},
-    {seatNo: 20, Name: "Tóthné Kovács Noémi",           table: "groom"},
-    {seatNo: 21, Name: "Tóth József",                   table: "groom"},
-    {seatNo: 22, Name: "Vékony Csaba",                  table: "groom"},
-    {seatNo: 23, Name: "Vékonyné Gecse Mariann",        table: "groom"},
-    {seatNo: 24, Name: "Vékony Kiara",                  table: "groom"},
-    {seatNo: 25, Name: "Hemző László vőfély",           table: "groom"},
-    {seatNo: 26, Name: "Áron atya",                     table: "groom"},
+    {seatNo: 13, Name: "Áron atya",                     table: "groom"},
+    {seatNo: 14, Name: "Torákné Kovács Krisztina",      table: "groom"},
+    {seatNo: 15, Name: "Torák Vencel Lőrinc",           table: "groom"},
+    {seatNo: 16, Name: "Torák Lőrinc",                  table: "groom"},
+    {seatNo: 17, Name: "Torákné Gyurcsik Ildikó",       table: "groom"},
+    {seatNo: 18, Name: "Torák Pál",                     table: "groom"},
+    {seatNo: 19, Name: "Mezei Krisztián",               table: "groom"},
+    {seatNo: 20, Name: "Mezei Krisztiánné",             table: "groom"},
+    {seatNo: 21, Name: "Tóthné Kovács Noémi",           table: "groom"},
+    {seatNo: 22, Name: "Tóth József",                   table: "groom"},
+    {seatNo: 23, Name: "Vékony Csaba",                  table: "groom"},
+    {seatNo: 24, Name: "Vékony Gecse Mariann",          table: "groom"},
+    {seatNo: 25, Name: "Vékony Kiara",                  table: "groom"},
+    {seatNo: 26, Name: "Hemző László vőfély",           table: "groom"},
     {seatNo: 27, Name: "Keresztapa",                    table: "bride"},
     {seatNo: 28, Name: "Keresztanya",                   table: "bride"},
     {seatNo: 29, Name: "Verebélyiné Gáspár Zita",       table: "bride"},
@@ -533,52 +533,53 @@ let people = [
     {seatNo: 36, Name: "Palánki Benedek",               table: "bride"},
     {seatNo: 37, Name: "Palánki Gréta",                 table: "bride"},
     {seatNo: 38, Name: "Palánki Zsoltné",               table: "bride"},
-    {seatNo: 39, Name: "Verebélyiné Illés Beáta",       table: "bride"},
-    {seatNo: 40, Name: "Verebélyi Tamás",               table: "bride"},
-    {seatNo: 41, Name: "Verebélyi Botond",              table: "bride"},
-    {seatNo: 42, Name: "Illés András",                  table: "bride"},
-    {seatNo: 43, Name: "Illés Roland",                  table: "bride"},
-    {seatNo: 44, Name: "Illésné Tajti Tímea",           table: "bride"},
-    {seatNo: 45, Name: "Palánki Gáborné",               table: "bride"},
-    {seatNo: 46, Name: "Palánki Edina",                 table: "bride"},
-    {seatNo: 47, Name: "Palánki Petra",                 table: "bride"},
-    {seatNo: 48, Name: "Palánki Gábor",                 table: "bride"},
-    {seatNo: 49, Name: "Palánki Viktorné",              table: "bride"},
-    {seatNo: 50, Name: "Mucsina Józsefné",              table: "bride"},
-    {seatNo: 51, Name: "Mucsina Gabriella",             table: "bride"},
-    {seatNo: 52, Name: "Sevelya Ákos",                  table: "friends"},
-    {seatNo: 53, Name: "Penderik Barbara",              table: "friends"},
-    {seatNo: 54, Name: "Oldal Nikolett",                table: "friends"},
-    {seatNo: 55, Name: "Zsidai Máté",                   table: "friends"},
-    {seatNo: 56, Name: "Koncz Bence",                   table: "friends"},
-    {seatNo: 57, Name: "Illés Nikolett",                table: "friends"},
-    {seatNo: 58, Name: "Tóth Gergő",                    table: "friends"},
-    {seatNo: 59, Name: "Csák Vivien",                   table: "friends"},
-    {seatNo: 60, Name: "Varga Alexandra",               table: "friends"},
-    {seatNo: 61, Name: "Szeles Andrea",                 table: "friends"},
-    {seatNo: 62, Name: "Boros Attila Dávid",            table: "friends"},
-    {seatNo: 63, Name: "Gergely Gábor",                 table: "friends"},
-    {seatNo: 64, Name: "Tóth Dávid",                    table: "friends"},
-    {seatNo: 65, Name: "Soós Luca",                     table: "friends"},
-    {seatNo: 66, Name: "Tóth Enikő",                    table: "friends"},
-    {seatNo: 67, Name: "Mezei Dávid",                   table: "friends"},
-    {seatNo: 68, Name: "Lizi",                          table: "friends"},
-    {seatNo: 69, Name: "Holló Márton",                  table: "friends"},
-    {seatNo: 70, Name: "Holló Rozina Blanka",           table: "friends"},
-    {seatNo: 71, Name: "Hollóné Lós Eliza",             table: "friends"},
-    {seatNo: 72, Name: "Dorozsin Regina Zsuzsanna",     table: "friends"},
-    {seatNo: 73, Name: "Dorozsin Zorka",                table: "friends"},
-    {seatNo: 74, Name: "Dorozsin Róbert",               table: "friends"},
-    {seatNo: 75, Name: "Kovács János",                  table: "friends"},
-    {seatNo: 76, Name: "Kovács-Varga Virág",            table: "friends"},
-    {seatNo: 77, Name: "Jakubovics Réka",               table: "friends"},
-    {seatNo: 78, Name: "Kiss Dávid Attila",             table: "friends"},
-    {seatNo: 79, Name: "Benus Dominik",                 table: "friends"},
-    {seatNo: 80, Name: "Hulitka Szabolcs",              table: "friends"},
-    {seatNo: 81, Name: "Hulitka Dániel",                table: "friends"},
-    {seatNo: 82, Name: "Szűcs Kitti",                   table: "friends"},
-    {seatNo: 83, Name: "Mezei Dorina",                  table: "friends"},
-    {seatNo: 84, Name: "Barni",                         table: "friends"}
+    {seatNo: 39, Name: "Fotós",                         table: "bride"},
+    {seatNo: 40, Name: "Videós",                        table: "bride"},
+    {seatNo: 41, Name: "Verebélyiné Illés Beáta",       table: "bride"},
+    {seatNo: 42, Name: "Verebélyi Tamás",               table: "bride"},
+    {seatNo: 43, Name: "Verebélyi Botond",              table: "bride"},
+    {seatNo: 44, Name: "Illés András",                  table: "bride"},
+    {seatNo: 45, Name: "Illés Roland",                  table: "bride"},
+    {seatNo: 46, Name: "Illésné Tajti Tímea",           table: "bride"},
+    {seatNo: 47, Name: "Palánkiné Kiss Veronika",       table: "bride"},
+    {seatNo: 48, Name: "Palánki Edina",                 table: "bride"},
+    {seatNo: 49, Name: "Palánki Petra",                 table: "bride"},
+    {seatNo: 50, Name: "Palánki Gábor",                 table: "bride"},
+    {seatNo: 51, Name: "Palánki Viktorné",              table: "bride"},
+    {seatNo: 52, Name: "Mucsina Józsefné",              table: "bride"},
+    {seatNo: 53, Name: "Mucsina Gabriella",             table: "bride"},
+    {seatNo: 54, Name: "Sevelya Ákos",                  table: "friends"},
+    {seatNo: 55, Name: "Penderik Barbara",              table: "friends"},
+    {seatNo: 56, Name: "Oldal Nikolett",                table: "friends"},
+    {seatNo: 57, Name: "Zsidai Máté",                   table: "friends"},
+    {seatNo: 58, Name: "Illés Nikolett",                table: "friends"},
+    {seatNo: 59, Name: "Tóth Gergő",                    table: "friends"},
+    {seatNo: 60, Name: "Csák Vivien",                   table: "friends"},
+    {seatNo: 61, Name: "Varga Alexandra",               table: "friends"},
+    {seatNo: 62, Name: "Szeles Andrea",                 table: "friends"},
+    {seatNo: 63, Name: "Boros Attila Dávid",            table: "friends"},
+    {seatNo: 64, Name: "Gergely Gábor",                 table: "friends"},
+    {seatNo: 65, Name: "Tóth Dávid",                    table: "friends"},
+    {seatNo: 66, Name: "Soós Luca",                     table: "friends"},
+    {seatNo: 67, Name: "Tóth Enikő",                    table: "friends"},
+    {seatNo: 68, Name: "Mezeiné Bakács Elizabet",       table: "friends"},
+    {seatNo: 69, Name: "Mezei Dávid",                   table: "friends"},
+    {seatNo: 70, Name: "Holló Márton",                  table: "friends"},
+    {seatNo: 71, Name: "Holló Rozina Blanka",           table: "friends"},
+    {seatNo: 72, Name: "Hollóné Lós Eliza",             table: "friends"},
+    {seatNo: 73, Name: "Dorozsin Regina Zsuzsanna",     table: "friends"},
+    {seatNo: 74, Name: "Dorozsin Zorka",                table: "friends"},
+    {seatNo: 75, Name: "Dorozsin Róbert",               table: "friends"},
+    {seatNo: 76, Name: "Kovács János",                  table: "friends"},
+    {seatNo: 77, Name: "Kovács-Varga Virág",            table: "friends"},
+    {seatNo: 78, Name: "Jakubovics Réka",               table: "friends"},
+    {seatNo: 79, Name: "Kiss Dávid Attila",             table: "friends"},
+    {seatNo: 80, Name: "Benus Dominik",                 table: "friends"},
+    {seatNo: 81, Name: "Hulitka Szabolcs",              table: "friends"},
+    {seatNo: 82, Name: "Hulitka Dániel",                table: "friends"},
+    {seatNo: 83, Name: "Szűcs Kitti",                   table: "friends"},
+    {seatNo: 84, Name: "Mezei Dorina",                  table: "friends"},
+    {seatNo: 85, Name: "Katona Máté Barnabás",          table: "friends"}
 ];
 
 function displayNamesDiv(who){
@@ -824,20 +825,20 @@ function displayNames() {
 
     // Nevek feltöltése Vőlegény családjának asztalához (különböző oldalak)
     if (groomDivs.length === 2) {
-        fillDivWithNames(groomDivs[0], groomNames.slice(0, 12), "right"); // Első oldal
-        fillDivWithNames(groomDivs[1], groomNames.slice(12), "left");    // Második oldal
+        fillDivWithNames(groomDivs[0], groomNames.slice(0, 13), "right"); // Első oldal
+        fillDivWithNames(groomDivs[1], groomNames.slice(13), "left");    // Második oldal
     }
 
     // Nevek feltöltése Menyasszony családjának asztalához
     if (brideDivs.length === 2) {
-        fillDivWithNames(brideDivs[0], brideNames.slice(0, 12), "right"); // Első oldal
-        fillDivWithNames(brideDivs[1], brideNames.slice(12), "left");    // Második oldal
+        fillDivWithNames(brideDivs[0], brideNames.slice(0, 14), "right"); // Első oldal
+        fillDivWithNames(brideDivs[1], brideNames.slice(14), "left");    // Második oldal
     }
 
     // Nevek feltöltése Fiatalok asztalához
     if (friendsDivs.length === 2) {
-        fillDivWithNames(friendsDivs[0], friendsNames.slice(0, 17), "right"); // Első oldal
-        fillDivWithNames(friendsDivs[1], friendsNames.slice(17), "left");    // Második oldal
+        fillDivWithNames(friendsDivs[0], friendsNames.slice(0, 16), "right"); // Első oldal
+        fillDivWithNames(friendsDivs[1], friendsNames.slice(16), "left");    // Második oldal
     }
 }
 
